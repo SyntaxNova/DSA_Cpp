@@ -4,7 +4,7 @@
 using namespace std;
 
 // Student structure
-struct Student {
+struct Student{
     int rollNo;
     string name;
     float sgpa;
