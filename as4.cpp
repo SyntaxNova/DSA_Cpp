@@ -1,7 +1,4 @@
 /*   ASSIGNMENT 4
-Name : Sanika Shailendra Jadhav
-Roll no: 27027
-Class : SE IT-B
 Problem Statement:- Construct an Expression Tree from postfix and prefix expression. Perform recursive and non- recursive In-order, pre-order and post-order traversals
 */
 #include <iostream>
