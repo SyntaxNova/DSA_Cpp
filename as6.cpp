@@ -1,8 +1,5 @@
 /*
 ASSIGNMENT 6
-Name : Sanika Shailendra Jadhav
-Roll no: 27027
-Class : SE IT-B
 Problem Statement :Implement In-order Threaded Binary Tree and traverse it in In-order and Pre-order.*/
 #include<iostream>
 using namespace std;
